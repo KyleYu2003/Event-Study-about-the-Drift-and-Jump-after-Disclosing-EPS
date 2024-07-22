@@ -17,7 +17,7 @@ There is three jupyter notebook files, one assignment and one report.\
 I do not upload the data for it is so huge that I can not upload it.
 
 ### Contact 
-You can contact me through LinkedIn: https://www.linkedin.com/in/kangqi-yu-339266220/
+You can contact me through LinkedIn: https://www.linkedin.com/in/kangqi-kyle-yu-339266220/
 
 ## Author and acknowledgment
 Author: Yu Kangqi (余康齐)\
